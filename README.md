@@ -151,7 +151,14 @@ LLM (OpenAI)
      │
      ▼
 Structured Response
+
 ```
+# ☁️ Cloud Deployment
+
+- AWS ECS (Fargate)  
+- Application Load Balancer (ALB)  
+- Amazon ECR  
+- Docker  
 
 ---
 
@@ -261,10 +268,8 @@ Use `/query` endpoint:
 
 # 👨‍💻 Author
 
-Developed as part of a **hands-on AI engineering portfolio** demonstrating:
+Architected and built as a real-world AI platform illustrating enterprise architecture principles, cloud-native deployment, and scalable system design.
+Deployed on AWS ECS (Fargate) with Application Load Balancer, following production-grade architecture patterns.
 
-* GenAI systems
-* MLOps pipelines
-* Agentic AI architectures
 
 ---
