@@ -133,6 +133,9 @@ This project demonstrates **next-generation AI system design**, where multiple s
 
 # 🏗️ Architecture
 
+![Architecture](./architecture.png)
+
+**Simplified Flow:**
 ```text
 User Query
      │
