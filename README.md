@@ -59,7 +59,7 @@ This project demonstrates **next-generation AI system design**, where multiple s
 
 ## 🔹 Deployment Features
 
-* 🐳 Dockerized application
+* 🐳 Dockerized application on ECS
 * ⚙️ Environment variable management (.env)
 * 🔗 Production-ready API service
 
@@ -111,7 +111,7 @@ This project demonstrates **next-generation AI system design**, where multiple s
 
 ## 🔹 DevOps & Deployment
 
-* Docker
+* Docker, ECS(Fargate), Application Load Balancer (ALB)
 * Environment Management (.env, python-dotenv)
 
 ---
